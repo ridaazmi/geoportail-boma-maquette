@@ -1,0 +1,13 @@
+# Données brutes téléchargées (volumineuses, régénérables avec les scripts)
+data_raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini

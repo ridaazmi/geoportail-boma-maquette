@@ -1,5 +1,7 @@
 # Géoportail de Boma : maquette de démonstration
 
+**Démo en ligne : https://ridaazmi.github.io/geoportail-boma-maquette/**
+
 Maquette interactive à joindre à l'offre technique. Elle tourne sur des **données réelles de Boma** :
 - voirie et bâti : OpenStreetMap ;
 - établissements de santé : GRID3 RDC v9.0 ;
